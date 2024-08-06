@@ -17,12 +17,10 @@ bash
 venv\Scripts\activate
 На macOS и Linux:
 bash
-Копировать код
 source venv/bin/activate
 Установите необходимые зависимости:
 
 bash
-Копировать код
 pip install -r requirements.txt
 2. Настройка бота
 Получение токена Telegram Bot API:
